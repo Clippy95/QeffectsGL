@@ -31,3 +31,6 @@ Thumbs.db
 # don't add bin and pics
 bin/
 pics/
+/msvc/QeffectsGL/Release
+/msvc/.vs/QeffectsGL
+/.vs/QeffectsGL/v17
